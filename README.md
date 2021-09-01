@@ -158,3 +158,6 @@ To see the issued credential, call the `/credentials/w3c` endpoint on Alice's ad
       }
 ...
 ```
+
+Used ISCED codes: 
+https://ec.europa.eu/assets/eac/education/tools/iscedf/codes_en.htm
