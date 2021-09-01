@@ -1,0 +1,45 @@
+{
+    "@context": [{
+      "@version": 1.1
+    },"https://www.w3.org/ns/odrl.jsonld", {
+      "ex": "https://example.org/examples#",
+      "schema": "http://schema.org/",
+      "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+      
+      "schoolType" : "ex:schoolType",
+      "name" : "ex:name",
+      "info" : "ex:info",
+      "number" : "ex:upperSecondarySchoolNumber",
+      "url" : "ex:url",
+      "eqfLevel" : "ex:eqfLevel",
+      "eqfCategory" : "ex:eqfCategory",
+      "country" : "ex:country",
+      "countryISO3166" : "ex:countryISO3166",
+      "federalStateISO31662" : "ex:federalStateISO3166-2",
+
+      "givenName": "schema:givenName",
+      "familyName": "schema:familyName",
+
+      "degree": "ex:degree",
+      "upperSecondaryDiplomaTitle" : "ex:upperSecondaryDiplomaTitle",
+      "totalScore": "ex:totalScore",
+      "score": "ex:score",
+      "grade":"ex:grade",
+       
+      "achievements": "ex:achievements",
+      "learningAchievements": "ex:learningAchievements",
+      "courseCategory" : "ex:courseCategory",
+      "courseSubject": "ex:courseSubject",
+      "advancedCourse" : "ex:advancedCourse",
+      "codeISCED": "ex:codeISCED", 
+      "semesterScore": "ex:semesterScore",
+      "semester1": "ex:semester1", 
+      "semester2": "ex:semester2",
+      "semester3": "ex:semester3",
+      "semester4": "ex:semester4",
+
+      "foreignLanguages": "ex:foreignLanguages",
+      "finalExamination" : "ex:finalExamination",
+      "finalExaminationType" : "ex:finalExaminationType"
+    }]
+  }
