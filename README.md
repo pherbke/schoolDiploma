@@ -10,7 +10,7 @@ Aca-py has the capability to issue and verify both Indy and JSON-LD (W3C complia
 
 The JSON-LD support is documented [here](../JsonLdCredentials.md) - this document will provide some additional detail in how to use the demo and admin api to issue and prove JSON-LD credentials.
 
-Schema used: https://raw.githubusercontent.com/pherbke/educationalCredentials/main/schemas/upperSecCert.json
+Schema used: https://raw.githubusercontent.com/pherbke/schoolDiploma/master/schemas/schoolDeploma_schema.json
 
 
 ## Setup Agents to Issue JDON-LD Credentials
