@@ -97,10 +97,10 @@ To issue a credential, use the `/issue-credential-2.0/send` (or `/issue-credenti
           "issuer": {
             "id": "did:key:zUC7L3Dvdvnt8EHzekfj8iLEp1cRrBvQYHy8MCFEDY74qBb4a6nrpTd5k4NhpEXJ7e7kGaqiohzNpzB2dEebG6zXdwSYQXDbhdn16qzVrTZkvSArVpijn3qo2HgcA2PefDvkGpB",
             "schoolType" : "Upper Secondary School",
-            "name" : "Engelbert-Kaempfer-Gymnasium",
-            "info" : "Städt. Gymnasium für Jungen und Mädchen - Sekundarstufen I und II -",
+            "name" : "Chrlbrtg-Gymnasium",
+            "info" : "Städt. Gymnasium",
             "number" : "168890",
-            "url" : "https://www.ekg-lemgo.de/",
+            "url" : "https://www.example.de/",
             "eqfLevel" : "4",
             "eqfCategory" : "344",
             "country" : "DE",
